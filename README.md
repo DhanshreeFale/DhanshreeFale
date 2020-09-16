@@ -37,6 +37,4 @@
 ## Stats 
 
 
-<img src = "https://github-readme-stats.vercel.app/api?username=DhanshreeFale&&show_icons=true&title_color= #3733FF&icon_color=bb2acf&text_color=daf7dc&bg_color=#3733FF">
-
 ![DhanshreeFale's github stats](https://github-readme-stats.vercel.app/api?username=DhanshreeFale&show_icons=true&theme=radical)
