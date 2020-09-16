@@ -16,7 +16,7 @@
 
 
 
-## Skills
+## Skills ⭕
 <code><img height="48" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F25231.svg?alt=media&token=ef2be627-04a6-4f80-afba-bf224281d35a"></code>
 <code><img height="48" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
 <code><img height="50" src="https://cdn.freebiesupply.com/logos/thumbs/2x/c-logo.png"></code>
@@ -33,7 +33,7 @@
 <code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxluFBnLXSCS5mSKudPHyQy0P3ugmwHYixMg&usqp=CAU"></code>
 
 
-## Stats 
+## Stats 📌
 
 
 ![DhanshreeFale's github stats](https://github-readme-stats.vercel.app/api?username=DhanshreeFale&show_icons=true&theme=radical)
