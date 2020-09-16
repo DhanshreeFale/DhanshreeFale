@@ -35,7 +35,7 @@
 <code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxluFBnLXSCS5mSKudPHyQy0P3ugmwHYixMg&usqp=CAU"></code>
 
 
-### Stats 
+## Stats 
 
 
 <img src = "https://github-readme-stats.vercel.app/api?username=DhanshreeFale&&show_icons=true&title_color= #3733FF&icon_color=bb2acf&text_color=daf7dc&bg_color=#3733FF">
