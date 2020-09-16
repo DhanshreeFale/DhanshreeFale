@@ -19,7 +19,6 @@
 
 ### Tools, Languages and Libraries 
 <code><img height="50" src="https://cdn.freebiesupply.com/logos/thumbs/2x/c-logo.png"></code>
-
 <code><img height="47" src="https://hackernoon.com/hn-images/1*rW03Wtue71AKfxnx6XN_iQ.png"></code>
 <code><img height="43" src="https://www.defactoinfotech.com/wp-content/uploads/2018/04/pOWERbi-png.png"></code>
 <code><img height="50" src="https://cdn.freebieupply.com/logos/thumbs/2x/c-logo.png"></code>
