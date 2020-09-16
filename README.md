@@ -36,7 +36,7 @@
 <code><img height="50" src="https://logodix.com/logo/1989939.png"></code>
 <code><img height="50" src="https://spin.atomicobject.com/wp-content/uploads/20180917161630/flask.png"></code>
 
-### Overview ⭕
+### Overview 
 
 
 <img src = "https://github-readme-stats.vercel.app/api?username=DhanshreeFale&&show_icons=true&title_color= #FFFFFF&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
