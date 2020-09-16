@@ -2,7 +2,9 @@
 
 
 
-##
+
+
+
 
 - 🌱 I’m currently learning advanced computing skills
 - 👯 I’m looking to collaborate on real time projects
